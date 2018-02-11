@@ -1,0 +1,23 @@
+body{
+  margin: 150px;
+}
+nav{
+  background-color: grey;
+}
+
+nav ul {
+  margin: 0;
+}
+
+nav ul li {
+  display: inline;
+}
+
+nav ul li a {
+   text-decoration: none;
+   color: green;
+}
+
+a {
+  color: purple;
+}
